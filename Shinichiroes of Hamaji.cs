@@ -21,8 +21,7 @@ SYNOPSIS: Output the text pattern below:
 using System;
 class m{
 	static void Main(){
-		var w=" on the wall";
-		var s=" shinichiro{0} of hamaji";
+		string w=" on the wall",s=" shinichiro{0} of hamaji";
 		for(int n=99;n>0;Console.Write("{1:Take one down and pass it around;;Go to the store and buy some more}, {2}"+s+w+".\n\n",n==1?"":"es",n,n>0?n:99))
 			Console.Write(n+s+w+", "+n--+s+".\n",n>0?"es":"");
 	}
