@@ -7,4 +7,4 @@ The object of code golf is to solve a given project in as few characters as poss
 - Execution Time
 - Language Features (functions, libraries, etc.)
 
-**NOTE:** For readability purposes, white spaces have been preserved. Any submissions of these items would have all necessary whitespaces stripped.
+**NOTE:** For readability purposes, white spaces have been preserved. Any submitted solutions to these problems would have all necessary whitespaces stripped to lower "par"
