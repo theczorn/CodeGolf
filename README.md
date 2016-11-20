@@ -1,5 +1,5 @@
 # CodeGolf
-Storage Repo for various CodeGolf items
+Storage Repo for various CodeGolf problems
 --This repo contains a collection of code golf projects I've tinkered around with.
 
 The object of code golf is to solve a given project in as few characters as possible. Acceptable solutions may be further constrained by the following:
@@ -8,4 +8,4 @@ The object of code golf is to solve a given project in as few characters as poss
 - Execution Time
 - Language Features (functions, libraries, etc.)
 
-NOTE: For readability purposes, white spaces have been preserved. Any submissions of these items would have all necessary whitespaces stripped.
+**NOTE:** For readability purposes, white spaces have been preserved. Any submissions of these items would have all necessary whitespaces stripped.
