@@ -1,7 +1,7 @@
 /*
 SOURCE: http://golf.shinh.org/p.rb?99+shinichiroes+of+hamaji
 SYNOPSIS: Output the text pattern below:
-"	99 shinichiroes of hamaji on the wall, 99 shinichiroes of hamaji.
+	"99 shinichiroes of hamaji on the wall, 99 shinichiroes of hamaji.
 	Take one down and pass it around, 98 shinichiroes of hamaji on the wall.
 
 	98 shinichiroes of hamaji on the wall, 98 shinichiroes of hamaji.
