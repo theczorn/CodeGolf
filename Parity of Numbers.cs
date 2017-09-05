@@ -1,6 +1,6 @@
 /*
 SOURCE: http://golf.shinh.org/p.rb?parity+of+numbers
-SYNOPSIS: Print the parity of numbers from 0-255
+SYNOPSIS: Print the parity of numbers from 0 through 255
 */
 
 using System;
