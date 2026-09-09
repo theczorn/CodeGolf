@@ -21,7 +21,9 @@ SYNOPSIS: Output the text pattern below:
 class m{
 	static void Main(){
 		string h=" of hamaji",e="es"+h,s=" shinichiro",p=99+s+e;
-		for(int i=99;i-->0;)
-			System.Console.Write("{0}{3}, {0}.\n{2:Take one down and pass it around;;Go to the store and buy some more}, {1}{3}.\n\n",p,p=(i<1?99:i)+s+(i==1?h:e),i," on the wall");
+		for(int i=99;i-->0;)System.Console.Write(@"{0}{3}, {0}.
+{2:Take one down and pass it around;;Go to the store and buy some more}, {1}{3}.
+
+",p,p=(i<1?99:i)+s+(i==1?h:e),i," on the wall");
 	}
 }
