@@ -18,12 +18,11 @@ SYNOPSIS: Output the text pattern below:
 	1 shinichiro of hamaji on the wall, 1 shinichiro of hamaji.
 	Go to the store and buy some more, 99 shinichiroes of hamaji on the wall."
 */
-class m{
+class m
+{
 	static void Main(){
-		string h=" of hamaji",e="es"+h,s=" shinichiro",p=99+s+e;
-		for(int i=99;i-->0;)System.Console.Write(@"{0}{3}, {0}.
-{2:Take one down and pass it around;;Go to the store and buy some more}, {1}{3}.
+		string f="{0:0;;99} shinichiro{1:es;;} of hamaji",g=f+" on the wall",d="";for(int i=100;i-->0;d=g+@".
 
-",p,p=(i<1?99:i)+s+(i==1?h:e),i," on the wall");
+")System.Console.Write(i>0?d+g+", "+f+".\n{1:Take one down and pass it around;;Go to the store and buy some more}, ":d,i,i^1);
 	}
 }
